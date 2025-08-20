@@ -18,8 +18,9 @@ This mod runs a fully automated, phase-based strategy so players can earn the �
 
 1) In Steam: **Cookie Clicker → Manage → Browse local files**  
 2) Open `resources/app/mods/local/`  
-3) Create a folder, e.g. `ascend-at-1-trillion/`  
-4) Launch the game → **Options → Mods** → enable **Ascend At 1 Trillion**
+4) Download the latest release `.zip` from [Releases](https://github.com/<your-username>/cookieclicker-1trillion-mod/releases).
+5) Extract and place the contained folder in `resources/app/mods/local/`.
+6) Launch the game → **Options → Mods** → enable **Ascend At 1 Trillion**
 
 ---
 
