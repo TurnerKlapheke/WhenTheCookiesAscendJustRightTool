@@ -1,0 +1,10 @@
+{
+	"Name": "Ascend At 1 Trillion",
+	"ID": "ascendAt1Trillion",
+	"Author": "Turner Klapheke",
+	"Description": "Automatically plays the game and ascends at exactly 1 trillion cookies baked to help unlock the achievement 'When the cookies ascend just right'.",
+	"ModVersion": 1,
+	"GameVersion": 2.031,
+	"Date": "17/07/2025",
+	"AllowSteamAchievs": 1
+} 
